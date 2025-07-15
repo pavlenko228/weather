@@ -1,0 +1,7 @@
+com\weather\WeatherConsumer.class
+com\weather\WeatherDataGenerator.class
+com\weather\WeatherDataSender.class
+com\weather\ConsumerApp.class
+com\weather\ProducerApp.class
+com\weather\WeatherDTO.class
+com\weather\WeatherProducer.class
